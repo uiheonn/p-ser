@@ -1,0 +1,27 @@
+[submodule "p-ser-frontend"]
+	path = p-ser-frontend
+	url = https://github.com/p-ser/p-ser-frontend.git
+[submodule "p-ser-backend"]
+	path = p-ser-backend
+	url = https://github.com/p-ser/p-ser-backend.git
+[submodule "p-ser-search"]
+	path = p-ser-search
+	url = https://github.com/p-ser/p-ser-search.git
+[submodule "p-ser-payment"]
+	path = p-ser-payment
+	url = https://github.com/p-ser/p-ser-payment.git
+[submodule "p-ser-auction"]
+	path = p-ser-auction
+	url = https://github.com/p-ser/p-ser-auction.git
+[submodule "p-ser-gateway"]
+	path = p-ser-gateway
+	url = https://github.com/p-ser/p-ser-gateway.git
+[submodule "p-ser-member"]
+	path = p-ser-member
+	url = https://github.com/p-ser/p-ser-member.git
+[submodule "p-ser-storage"]
+	path = p-ser-storage
+	url = https://github.com/p-ser/p-ser-storage.git
+[submodule "p-ser-mariadb"]
+	path = p-ser-mariadb
+	url = https://github.com/p-ser/p-ser-mariadb.git
