@@ -57,3 +57,4 @@
 </div>
 
 ## 아키텍처
+![cicd](https://github.com/uiheonn/p-ser/assets/108711488/3afe0e7d-672c-4175-a585-0aa814c7513f)
