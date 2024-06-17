@@ -12,7 +12,7 @@
 <br>
 
 ## 서비스 소개
-<img src="https://github.com/p-ser/.github/assets/91861082/94ed50a2-cbfe-4c93-8a61-3b9f5a29a227" width="150" />
+<img src="https://github.com/p-ser/.github/assets/91861082/94ed50a2-cbfe-4c93-8a61-3b9f5a29a227" width="200" />
 <h4>숙소 예약 및 거래 플랫폼 피서입니다</h4>
 <h4>기존 서비스(야놀자, 에어비앤비)와 같이 숙소 예약 및 취소가 가능하되, 환불 불가 객실을 경매를 통해 거래할 수 있습니다</h4>
 <h4>하한가는 환불 최저 금액부터, 상한가는 기존 숙박 금액입니다</h4>
